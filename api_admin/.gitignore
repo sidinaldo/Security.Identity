@@ -1,0 +1,67 @@
+.vs/
+
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# IDEs and editors
+launch.json
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+
+# IDE - VSCode
+.vscode/*
+.history/*
+!.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+!.vscode/extensions.json
+
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/e-mp/v15/.suo
+
+
+# System Files
+.DS_Store
+Thumbs.db
+package-lock.json
+
+# Cache
+Cache/**
+/.angulardoc.json
+CachedData/
+CachedExtensions/
+
+# Other
+
+Backups/
+Cookies
+Cookies-journal
+Network Persistent State
+User/
+languagepacks.json
+logs/
+machineid
+rapid_render.json
+storage.json
+Nuget.config
+NuGet.config
+
+anexos*/
+anexos/*.pdf
+anexos/*.doc*
+anexos
+
+api/NuGet.config
+.history/*
+

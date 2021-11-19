@@ -1,0 +1,83 @@
+.vs/
+
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/front/node_modules
+
+# IDEs and editors
+launch.json
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+
+# IDE - VSCode
+.vscode/*
+.history/*
+!.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+!.vscode/extensions.json
+
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/e-mp/v15/.suo
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+package-lock.json
+
+# Cache
+Cache/**
+/.angulardoc.json
+CachedData/
+CachedExtensions/
+
+# Other
+
+Backups/
+Cookies
+Cookies-journal
+Network Persistent State
+User/
+front/src/environments/setEnvironment.sh
+languagepacks.json
+logs/
+machineid
+rapid_render.json
+storage.json
+Nuget.config
+NuGet.config
+
+anexos*/
+anexos/*.pdf
+anexos/*.doc*
+anexos
+
+api/NuGet.config
+.history/*
+
